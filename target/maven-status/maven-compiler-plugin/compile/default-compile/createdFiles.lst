@@ -1,0 +1,13 @@
+com\insoftar\core\dao\UsuarioDao$1.class
+com\insoftar\core\dao\UsuarioDao$2.class
+com\insoftar\core\visualobject\ObjectMessage.class
+com\insoftar\core\dao\UsuarioDao.class
+com\insoftar\core\CoreApplication.class
+com\insoftar\core\entities\Usuarios.class
+com\insoftar\core\ServletInitializer.class
+com\insoftar\core\dao\InterfaceUsuarioDao.class
+com\insoftar\core\logic\UsuarioLogic.class
+com\insoftar\core\controller\CrudUsuario.class
+com\insoftar\core\mapper\UsuarioRowMapper.class
+com\insoftar\core\CoreApplication$1.class
+com\insoftar\core\logic\InterfaceUsuariosLogic.class
